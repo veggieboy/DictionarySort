@@ -76,7 +76,7 @@ public class DictionarySort {
 	 */
 	public static ArrayList<String> getWords() throws FileNotFoundException {
 		ArrayList<String> result = new ArrayList<String>();
-		Scanner input = new Scanner(new File("bin/words.txt"));
+		Scanner input = new Scanner(new File("words.txt"));
 		while(input.hasNextLine()) {
 			result.add(input.nextLine());
 		}
