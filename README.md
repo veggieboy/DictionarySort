@@ -3,7 +3,7 @@
 ## Objectives
 Be able to implement sort and search methods
 
-### Complete search method implementations
+### Complete search and sort method implementations
 - public static SearchResult sequentialSearch(String wordToFind)
 - public static SearchResult binarySearch(String wordToFind)
 - public static void sortList(ArrayList<String> list)
