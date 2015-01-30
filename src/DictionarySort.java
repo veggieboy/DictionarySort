@@ -16,6 +16,7 @@ public class DictionarySort {
 	public static void main(String[] args) throws IOException {
 
 		words = getWords();
+		sortList(words);
 		int interval = 100;
 		String[] find = new String[100];    
 		int index = interval;
@@ -59,9 +60,11 @@ public class DictionarySort {
 	
 	/**
 	 * implement a method to sort the ArrayList words
+	 * 
+	 * @param list - ArrayList of words to sort
 	 *
 	 */
-	public static void sortList(A) {
+	public static void sortList(ArrayList<String> list) {
 		//TODO
 	}
 
