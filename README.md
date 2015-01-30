@@ -11,6 +11,8 @@ Be able to implement sort and search methods
 ### Review
 - https://www.youtube.com/watch?v=Ns4TPTC8whw
 - https://www.youtube.com/watch?v=ROalU379l3U
+- http://en.wikipedia.org/wiki/Sorting_algorithm
+- http://www.sorting-algorithms.com/
 
 ### Output
 The output from running the program should be identical to:
