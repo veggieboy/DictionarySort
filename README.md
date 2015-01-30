@@ -8,6 +8,10 @@ Be able to implement sort and search methods
 - public static SearchResult binarySearch(String wordToFind)
 - public static void sortList(ArrayList<String> list)
 
+### Review
+- https://www.youtube.com/watch?v=Ns4TPTC8whw
+- https://www.youtube.com/watch?v=ROalU379l3U
+
 ### Output
 The output from running the program should be identical to:
 ```
